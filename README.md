@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <!--
 **dasunthamsh/dasunthamsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
