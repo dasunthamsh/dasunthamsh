@@ -93,11 +93,11 @@
 
 ## Github Stats  
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasunthamsh&theme=monokai)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasunthamsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/> 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthamsh&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" align="center" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthamsh&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" align="center" /></div> 
  
 <br/>  
 
