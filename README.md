@@ -93,7 +93,8 @@
 
 ## Github Stats  
  
-![](https://github-readme-stats.vercel.app/api?username=dasunthamsh&theme=radical&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasunthamsh&theme=monokai)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthamsh&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" align="center" /></p>
