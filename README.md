@@ -26,6 +26,7 @@
 
 <br/>  
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunthamsh" alt="sithum1220" /></a> </p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
