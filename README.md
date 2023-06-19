@@ -94,11 +94,11 @@
 
 ## Github Stats  
  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasunthamsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasunthamsh&show_icons=true&count_private=true&hide_border=true&theme=holi" align="center" /></div>  
 
 <br/> 
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthamsh&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" align="center" /></div> 
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthamsh&show_icons=true&locale=en&layout=compact&theme=transparent" align="center" /></div> 
  
 <br/>  
 
