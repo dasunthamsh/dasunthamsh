@@ -63,7 +63,7 @@
 ## Github Stats  
 
  <!-- theme=holi (blue color) --> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasunthamsh&show_icons=true&count_private=true&hide_border=true&theme=shadow_red" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dasunthamsh&show_icons=true&count_private=true&hide_border=true&theme=holi" align="center" /></div>  
 
 <br/> 
 
