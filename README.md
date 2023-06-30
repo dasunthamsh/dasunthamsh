@@ -32,7 +32,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,jquery,hibernate,figma,bootstrap,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,jquery,hibernate,figma,bootstrap,react,angular,nodejs,ps,pr)](https://skillicons.dev)
 
 <br/>  
 
