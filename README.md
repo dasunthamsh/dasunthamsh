@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dasun</div>  
   
   <div align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Full+stack+Developer+From+Srilanka...;Software+Designer...;Developer...;UI%2FUX+Designer...;Music+Producer..." alt="Typing SVG" /></a>
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Front+End+Developer+and+UI%2FUX+Designer+From+Srilanka...;" alt="Typing SVG" /></a>
 </div> 
 
 - I’m studying at IJSE.https://www.ijse.lk/  
@@ -32,7 +32,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,jquery,hibernate,figma,bootstrap,react,nodejs,typescript,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,jquery,hibernate,figma,bootstrap,react,nodejs,typescript,tailwind,next,mongodb,express,spring)](https://skillicons.dev)
 
 <br/>  
 
